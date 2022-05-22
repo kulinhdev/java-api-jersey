@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/servlets/DeleteServlet.java=UTF-8
+encoding//src/servlets/ProductServlet.java=UTF-8
+encoding//src/servlets/SaveServlet.java=UTF-8
+encoding//src/servlets/UpdateServlet.java=UTF-8
